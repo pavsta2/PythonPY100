@@ -10,9 +10,9 @@ if __name__ == "__main__":
         if current_value <= min_value:
             min_value = current_value
             min_value_index = i
+    set_min_values_indexes = []
     for i, current_value in enumerate(list_):
-        set_min_values_indexes = []
         if current_value == min_value:
             set_min_values_indexes = set_min_values_indexes + [i]
 
-    print("Минимальный элемент =", min_value, "находится по индексу", set_min_values_indexes)
+    print("Минимальный элемент =", min_value, "находится по индексам", set_min_values_indexes)
