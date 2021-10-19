@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 399
+    length: 398
     placeholder_text: '# TODO'
     initial_state:
       length: 16
@@ -33,6 +33,6 @@ files:
   learner_created: false
 status: Solved
 feedback:
-  time: Tue, 19 Oct 2021 16:26:42 UTC
+  time: Tue, 19 Oct 2021 16:34:23 UTC
 record: -1
 post_submission_on_open: true
