@@ -9,5 +9,5 @@ if __name__ == "__main__":
             max_value = list_[max_value_index]
         current_value = current_value + 1
     list_[0], list_[max_value_index] = list_[max_value_index], list_[0]
-    print(list_, "конец")
+    print(list_, "конец1")
 
