@@ -3,11 +3,11 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 110
-    length: 19
+  - offset: 75
+    length: 0
     placeholder_text: '...)  # TODO'
     initial_state:
-      length: 12
+      length: 19
       offset: 110
     initialized_from_dependency: false
     selected: true
@@ -29,5 +29,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 15 Oct 2021 19:01:34 UTC
+  time: Tue, 19 Oct 2021 16:18:06 UTC
 record: -1
