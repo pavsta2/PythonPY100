@@ -1,9 +1,9 @@
 def counter(count):
-    count = count + 1
+    count_ = count + 1
 
-    return count
+    return count_
 
 
 if __name__ == "__main__":
-    count = 0
-    print(counter())  # что будет выведено?
+    count = 5
+    print(counter(count))  # что будет выведено?

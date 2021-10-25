@@ -3,14 +3,14 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 91
-    length: 78
+  - offset: 83
+    length: 11
     placeholder_text: '...  # TODO'
     initial_state:
       length: 11
       offset: 83
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: |-
       result = 1
@@ -37,6 +37,6 @@ files:
   learner_created: false
 status: Solved
 feedback:
-  time: Thu, 21 Oct 2021 15:45:51 UTC
+  time: Sun, 24 Oct 2021 18:23:04 UTC
 record: -1
 post_submission_on_open: true
