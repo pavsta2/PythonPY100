@@ -1,4 +1,3 @@
 if __name__ == "__main__":
-    def words(str_):
-
+    # Write your solution here
     pass
