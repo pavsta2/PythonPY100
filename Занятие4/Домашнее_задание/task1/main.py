@@ -1,3 +1,5 @@
-if __name__ == "__main__":
-    # Write your solution here
+def func_(a):
+
+ if __name__ == "__main__":
+
     pass
