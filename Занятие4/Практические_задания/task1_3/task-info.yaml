@@ -7,7 +7,7 @@ files:
     length: 94
     placeholder_text: '[i for i in range(10)]  # TODO'
     initial_state:
-      length: 30
+      length: 94
       offset: 39
     initialized_from_dependency: false
     selected: true
@@ -25,6 +25,6 @@ files:
   learner_created: false
 status: Solved
 feedback:
-  time: Tue, 26 Oct 2021 15:40:06 UTC
+  time: Sun, 07 Nov 2021 16:33:41 UTC
 record: -1
 post_submission_on_open: true
