@@ -2,7 +2,7 @@ def budget(b):
     total9 = 0
     for i in range(1, 10):
         b_next = b * 1.03
-        total9 = total9 + b_next
+        total9 += b_next
         b = b_next
     return b + total9
 

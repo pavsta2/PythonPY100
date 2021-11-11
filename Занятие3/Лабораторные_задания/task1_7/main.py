@@ -1,9 +1,10 @@
 def func(a, s, b):
     m = 0
+    s = s - b + a
     while s > 0:
+        m += 1
         s = s - b + a
         b = b * 1.05
-        m = m + 1
     return m
 
 if __name__ == "__main__":
