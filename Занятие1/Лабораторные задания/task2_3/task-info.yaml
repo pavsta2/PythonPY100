@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 57
+    length: 52
     placeholder_text: '...  # TODO найти количество натуральных чисел кратных 23'
     initial_state:
       length: 57
       offset: 0
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       start = 123
